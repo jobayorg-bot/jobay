@@ -10,8 +10,8 @@ logging.basicConfig(
 )
 
 # متغیرهای محیطی
-BOT_TOKEN = os.getenv("7691709850:AAHBKDMIegmEg8ybA0jVFvbGzCxZnHDmA3M")
-ADMIN_ID = int(os.getenv("5134131639"))  # آیدی عددی خودت
+BOT_TOKEN = os.getenv("")
+ADMIN_ID = int(os.getenv(""))  # آیدی عددی خودت
 
 # دیکشنری ذخیره پیام‌ها
 user_messages = {}
