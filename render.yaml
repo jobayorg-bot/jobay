@@ -5,4 +5,3 @@ services:
     pythonVersion: 3.12.3
     buildCommand: ""
     startCommand: python bot.py
-    envVars: []
