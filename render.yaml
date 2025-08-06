@@ -2,7 +2,7 @@ services:
   - type: web
     name: jobay-bot
     runtime: python
-    pythonVersion: python-3.10.13
+    pythonVersion: 3.10.13
     buildCommand: ""
     startCommand: python bot.py
     envVars: []
